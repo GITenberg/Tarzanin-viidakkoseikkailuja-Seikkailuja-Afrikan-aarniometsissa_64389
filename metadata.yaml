@@ -1,0 +1,43 @@
+_repo: Tarzanin-viidakkoseikkailuja-Seikkailuja-Afrikan-aarniometsissa_64389
+_version: 0.0.1
+alternative_title: Jungle tales of Tarzan. Finnish
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2021-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64389'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apes -- Fiction'
+- !lcsh 'Tarzan (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Jungles -- Fiction'
+- GITenberg
+tableOfContents: Tarzanin ensimmäinen rakkaus -- Tarzan vankina -- Taistelu balusta
+  -- Tarzanin jumala -- Tarzan ja neekeripoika -- Poppamies kostopuuhissa -- Bukawain
+  kuolema -- Leijona -- Painajainen -- Taistelu Tikan puolesta -- Viidakkotepponen
+  -- Tarzan pelastaa kuun.
+title: 'Tarzanin viidakkoseikkailuja: Seikkailuja Afrikan aarniometsissä'
+url: http://www.gutenberg.org/ebooks/64389
